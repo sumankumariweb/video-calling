@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/video-calling/static/css/main.073c9b0a.css",
+    "main.js": "/video-calling/static/js/main.126210ea.js",
+    "static/js/787.bd93fa6d.chunk.js": "/video-calling/static/js/787.bd93fa6d.chunk.js",
+    "static/media/logo.svg": "/video-calling/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/video-calling/index.html",
+    "main.073c9b0a.css.map": "/video-calling/static/css/main.073c9b0a.css.map",
+    "main.126210ea.js.map": "/video-calling/static/js/main.126210ea.js.map",
+    "787.bd93fa6d.chunk.js.map": "/video-calling/static/js/787.bd93fa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.126210ea.js"
+  ]
+}
