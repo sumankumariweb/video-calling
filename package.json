@@ -1,6 +1,7 @@
 {
   "name": "video-calling",
-  "homepage": "http://sumankumariweb.com/video-calling",
+  "homepage": "http://sumankumariweb.github.io/video-calling",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
